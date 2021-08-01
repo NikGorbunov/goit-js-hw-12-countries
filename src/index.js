@@ -2,7 +2,7 @@ import countryCardTpl from '../src/templates/country_tmpl.hbs';
 import countriesTpl from '../src/templates/countries.hbs';
 import API from '../src/js/fetchCountries';
 import Notiflix from "notiflix";
-import './sass/main.scss'
+import './css/style.css'
 
 const debounce = require('lodash.debounce');
 const DEBOUNCE_DELAY = 300;

@@ -1,4 +1,4 @@
-import '../sass/main.scss'
+import '../css/style.css'
 
 const BASE_URL = 'https://restcountries.eu/rest/v2';
 
